@@ -1,8 +1,6 @@
 # RubyCalibre
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/ruby_calibre`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+A ruby wrapper for [Calibre CLI](https://manual.calibre-ebook.com/generated/en/cli-index.html)
 
 ## Installation
 
@@ -19,6 +17,11 @@ And then execute:
 Or install it yourself as:
 
     $ gem install ruby_calibre
+
+## Requirements
+
+Calibre has to be installed. CLI is included in the [default installation package](https://calibre-ebook.com/download).
+
 
 ## Usage
 
