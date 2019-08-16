@@ -1,0 +1,16 @@
+require:
+  - rubocop-performance
+
+Layout/ExtraSpacing:
+  Enabled: true
+  AllowForAlignment: true
+
+Style/StringLiterals:
+  Enabled: true
+  EnforcedStyle: double_quotes
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/MutableConstant:
+  Enabled: false
